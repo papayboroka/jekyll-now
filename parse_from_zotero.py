@@ -34,7 +34,7 @@ def get_bibs_by_year_from_json(req):
     content = ""
     for year, bibs in year_bib_dict.items():
         content += "## %s\n" % year
-        content += "\n".join(["- %s" % item for item in bibs])
+        content += "\n".join(bibs)
         content += "\n\n"
         
     return content
