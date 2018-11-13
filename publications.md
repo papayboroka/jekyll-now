@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 ## Planned chapters in my doctoral thesis
 - Pápay B., Galántai J.: [Semantic analysis of triadic relationships in gossip statements](http://papayboroka.hu/semantic-analysis-triad/)
-- Pápay, B., and Takács K.: Is It All About The Money? Gossip Induced by Perceptions of Wage Discrepancies and Informal Undermining in Organization
-- Pápay B., Takács K.: Relational Elements of the Gossip Triad
+- Pápay, B., and Takács K.: [Is It All About The Money? Gossip Induced by Perceptions of Wage Discrepancies and Informal Undermining in Organization](http://papayboroka.hu/all-about-money/)
+- Pápay B., Takács K.: [Relational Elements of the Gossip Triad](http://papayboroka.hu/triad/)
 
 ## 2018
 <div class="csl-bib-body" style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">  <div class="csl-entry">Júlia Galántai, Boróka Pápay, Bálint György Kubik, Martina Szabó, Károly Takács &#x201C;A pletyka a társas rend szolgálatában. Az informális kommunikáció struktúrájának mélyebb megértéséért a Computational Social Science eszközeivel [Gossip in Service for Social Order – Using the Tools of Computational Social Science for a Deeper Understanding of the Structure of Informal Communication].&#x201D; <i>MAGYAR TUDOMÁNY</i> 2018(7) (2018). <a href="https://mersz.hu/hivatkozas/matud_f8924#matud_f8924"  target="_blank">https://mersz.hu/hivatkozas/matud_f8924#matud_f8924</a></div></div>
