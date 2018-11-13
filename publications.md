@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ## Planned chapters in my doctoral thesis
-- Pápay B., Galántai J.: Semantic analysis of triadic relationships in gossip statements
+- Pápay B., Galántai J.: [Semantic analysis of triadic relationships in gossip statements](http://papayboroka.hu/publications/semantic_analysis_triad.html)
 - Pápay, B., and Takács K.: Is It All About The Money? Gossip Induced by Perceptions of Wage Discrepancies and Informal Undermining in Organization
 - Pápay B., Takács K.: Relational Elements of the Gossip Triad
 
