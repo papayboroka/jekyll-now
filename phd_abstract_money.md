@@ -1,0 +1,9 @@
+---
+layout: page
+title: Pápay, B., Takács K. Is It All About The Money? Gossip Induced by Perceptions of Wage Discrepancies and Informal Undermining in Organizations
+permalink: /all-about-money/
+---
+
+Pápay, B., Takács K.: **Is It All About The Money? Gossip Induced by Perceptions of Wage Discrepancies and Informal Undermining in Organizations**
+
+Employees are largely concerned about their formal, but also their informal position in the organization. To satisfy this concern, employees make social comparisons with other employees repeatedly. Salaries, and given the lack of publicly available information, perceptions about salaries are important determinants of evaluations of others at the workplace. Disparities of salary perceptions with ability and competence attributions might drive informal undermining of those who are perceived to earn more than deserved. We hypothesize that unfavorable disparities imply frustration, envy, and feelings of inappropriateness. This is partly relaxed by informal undermining of the person who earns undeservedly more. We expect that such malicious gossip occurs more typically in cases where promotion opportunities are limited or targets of gossip are assumed to be competitors for promotion. The relationship between salary perceptions and self-reported gossip is tested using newly collected survey data from three small organizations (N=24, 22, 19). Structural effects are controlled for using Exponential Random Graph Models. Results show that the perception of an undeservedly high wage, similarly to being privileged by the boss, can lead to malicious gossip. Gossip can also be an informal sanction tool when colleagues are not considered appropriate for their job. Differences of results between the organizations highlight that the organizational context might largely alter who are the senders and targets of negative gossip.
