@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pápay B., Galántai J.: Semantic analysis of triadic relationships in gossip statements
-permalink: /publications/semantic_analysis_triad
+permalink: /publications/semantic_analysis_triad/
 ---
 
 Most of human conversations contain topics that can be labeled as gossip. Social norms and reputational information are also being transmitted by gossip, making gossip the core of human interactions. In social network terms, gossip is inherently triadic, where the gossip’s sender shares an evaluative information with receiver, about the target of the gossip. The sender of the gossip can use it to enhance her own or to destroy target’s reputation. Sender can also gossip to enforce a social bound with receiver or to enhance group norms.
